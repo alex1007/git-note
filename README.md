@@ -47,7 +47,9 @@ branch
 * delete a branch
 `git branch -d branchname`
 
-merge
+* merge current branch with another branch
+`git merge branchname`
+
 * get the changes without merging them with the local repository
 `git fetch origin`
 
